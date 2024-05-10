@@ -1,0 +1,28 @@
+{
+  "name": "nehakitchen",
+  "version": "1.0.0",
+  "description": "maza kitchen by Neha Ninawe",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/staraspirant/mazakitchen.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Neha Ninawe",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
